@@ -1,0 +1,7 @@
+{
+  "name": "npx-cli-package",
+  "version": "0.1.0",
+  "bin": {
+    "npx-cli-package": "./index.js"
+  }
+}
